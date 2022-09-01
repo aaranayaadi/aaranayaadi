@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaranayaadi
 - 👀 I’m interested in open source, machine learning, artificial intelligence
-- 🌱 I’m currently learning computer and communication engineering
+- 🌱 I’m currently learning computer science and communication engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
