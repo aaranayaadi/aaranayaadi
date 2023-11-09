@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaranayaadi
-- 👀 I’m interested in open source, machine learning, artificial intelligence
+- 👀 I’m interested in open source, Android Development, Software Development, machine learning, artificial intelligence
 - 🌱 I’m currently learning computer science and communication engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
